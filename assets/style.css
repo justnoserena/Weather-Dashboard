@@ -1,0 +1,28 @@
+header{
+    font-size: 15px;
+    text-align: center;
+    color:white;
+    background: royalblue;
+    margin-bottom: 1cm;
+    height: 50px;
+}
+h1 {
+    padding:5px;
+}
+nav {
+}
+section {
+    margin-left: 25%;
+    margin-top: 0;
+    z-index: ;
+}
+
+.main {
+    border: 2mm ridge rgba(34, 34, 36, 0.716);
+}
+.row {
+    align-items: center;
+}
+ul {
+    list-style-type: none;
+}
